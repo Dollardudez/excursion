@@ -1,13 +1,21 @@
 body {
   background-color: black;
   color: white;
-  font-size: 50px;
+  font-size: 30px;
   text-align: center;
   font-family: Verdana, sans-serif;
   font-weight: bold;
-
 }
 
 h1 {
   display: block;
  }
+
+p {
+  color: mediumspringgreen;
+  font-size: 15px;
+}
+
+a {
+  color: mediumspringgreen;
+}
