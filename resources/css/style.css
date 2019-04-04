@@ -12,10 +12,11 @@ h1 {
  }
 
 p {
-  color: mediumspringgreen;
-  font-size: 15px;
+  font-size: 20px;
+  opacity: 0.5;
 }
 
 a {
-  color: mediumspringgreen;
+  color: aqua;
+  font-size: 15px;
 }
