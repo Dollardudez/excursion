@@ -11,12 +11,12 @@ h1 {
   display: block;
  }
 
-p {
+a {
+  color: mediumspringgreen;
+  font-size: 15px;
+ }
+
+p.info {
   font-size: 20px;
   opacity: 0.5;
-}
-
-a {
-  color: aqua;
-  font-size: 15px;
 }
